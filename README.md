@@ -1,2 +1,2 @@
 # Javascript_react
-MERN development
+MERN development, willing to learn updated skills in fullstack
